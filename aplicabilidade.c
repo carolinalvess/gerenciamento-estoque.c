@@ -7,8 +7,6 @@
 
 #define TAMANHO 10
 
-#include "Include.h"
-
 struct produto {
     char nomeProduto[21];
     char codigoProduto[11];
@@ -30,7 +28,6 @@ int ComprarProduto(Produto *produtos,float *caixa,int quantidade,int posicaoProd
 int VenderProduto(Produto *produtos,float *caixa,int quantidade,int posicaoProduto);
 
 
-#include "Produto.h"
 
 int main()
 {
@@ -170,7 +167,6 @@ int main()
     return 0;
 }
 
-#include "Produto.h"
 
 
 void CadastraProduto(Produto *produtos,Produto p,int posicao){
