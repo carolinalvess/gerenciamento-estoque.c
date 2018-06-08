@@ -1,5 +1,8 @@
 # gerenciamento-estoque.c
+
+_______________________________________________________________________________
 #gerenciamento-estoque.c
+
 ADS-UNIPAC Uberlandia. 
 Aluna: Carolina Alves de Souza.
 _______________________________________________________________________________
